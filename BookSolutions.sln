@@ -31,7 +31,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwordDamageEnhanced_UI", "S
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeaponDamage", "ConsoleApp1\WeaponDamage.csproj", "{EF0D9825-E2B9-4D5D-A9F7-07F5C81BD1A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrivateIsNotSameAsSecure", "PrivateIsNotSameAsSecure\PrivateIsNotSameAsSecure.csproj", "{FB062B45-655E-4829-AD8F-61DE0C97C381}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrivateIsNotSameAsSecure", "PrivateIsNotSameAsSecure\PrivateIsNotSameAsSecure.csproj", "{FB062B45-655E-4829-AD8F-61DE0C97C381}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BirdEggs_Inheritance", "BirdEggs_Inheritance\BirdEggs_Inheritance.csproj", "{7DBD0DAC-E5F6-46D9-A198-FFCD44A4F48A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VendingMachine_Inheritance", "VendingMachine_Inheritance\VendingMachine_Inheritance.csproj", "{9C09E7DF-C352-460F-BECE-AA93D340C7B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateAge", "CalculateAge\CalculateAge.csproj", "{37CAC486-78D1-46DE-9DA3-1B4C36C397CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +105,18 @@ Global
 		{FB062B45-655E-4829-AD8F-61DE0C97C381}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB062B45-655E-4829-AD8F-61DE0C97C381}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB062B45-655E-4829-AD8F-61DE0C97C381}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DBD0DAC-E5F6-46D9-A198-FFCD44A4F48A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DBD0DAC-E5F6-46D9-A198-FFCD44A4F48A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DBD0DAC-E5F6-46D9-A198-FFCD44A4F48A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DBD0DAC-E5F6-46D9-A198-FFCD44A4F48A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C09E7DF-C352-460F-BECE-AA93D340C7B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C09E7DF-C352-460F-BECE-AA93D340C7B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C09E7DF-C352-460F-BECE-AA93D340C7B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C09E7DF-C352-460F-BECE-AA93D340C7B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37CAC486-78D1-46DE-9DA3-1B4C36C397CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37CAC486-78D1-46DE-9DA3-1B4C36C397CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37CAC486-78D1-46DE-9DA3-1B4C36C397CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37CAC486-78D1-46DE-9DA3-1B4C36C397CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
